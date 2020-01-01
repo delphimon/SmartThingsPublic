@@ -14,7 +14,7 @@
  *  MODIFIED 12/16/2019 by delphimon to work with hub update for encapsulated commands
  */
 metadata {
-	definition (name: "Monoprice Z-Wave Plus Plug-In Power Monitor P/N 15903", namespace: "plentpak", author: "plenTpak") {
+	definition (name: "Monoprice Z-Wave Plus Plug-In Power Monitor P/N 15903", namespace: "delphimon", author: "delphimon") {
 		capability "Energy Meter"
 		capability "Power Meter"
 		capability "Configuration"
